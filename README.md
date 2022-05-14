@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img width="50%" src="https://raw.githubusercontent.com/Climber-Apps/Clive/master/logo.svg">
+<img width="50%" src="https://raw.githubusercontent.com/Climber-Tools/Clive/master/logo.svg">
 </p>
 
 <p align="center" width="100%">
